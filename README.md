@@ -21,7 +21,7 @@
 
 ## Featured Projects
 
-- [CSE103 Lab — LAB 3]()
+- [CSE103 Lab — LAB 3](https://github.com/tarunsingh0271-afk/cse103-lab-LAB3.git)
 
 Git workflows, API interaction, and Markdown documentation
 
