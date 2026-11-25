@@ -33,6 +33,3 @@ Git workflows, API interaction, and Markdown documentation
 - LinkedIn :www.linkedin.com/in/tarun-kumar-3b8623415
 
 - Email : 2601730160@krmu.edu.in
-
-
-- Email : [Your college email address]
